@@ -49,7 +49,7 @@ KEY값과 VALUE값으로 구분된 하나의 묶음으로 저장되는, 아주 �
 
 > Redis, Oracle NoSQL Database, Riak, Vodemort, Tokyo등의 제품이 알려져 있다.
 
-![image-20201208070321974](/Users/habin_kim/Development/TIL/image-20201208070321974.png)
+![nosql_keyValue](/Users/habin_kim/Development/TIL/assets/nosql_keyValue.png)
 
 
 
@@ -58,7 +58,7 @@ Big Table DB라고도 하며, Google의 BigTable Paper에서 유래되었습니�
 
 > HBase, Cassandra, Hypertable이 이에 해당된다.
 
-![image-20201208065520259](/Users/habin_kim/Development/TIL/image-20201208065520259.png)
+![nosql_widecolumnar](/Users/habin_kim/Development/TIL/assets/nosql_widecolumnar.png)
 
 
 
@@ -70,7 +70,7 @@ XML이나 JSON같은 도큐먼트를 이용해서 레코드를 저장한다 하�
 
 > Mongo DB, Cough DB가 이 종류에 해당된다.
 
-![image-20201208065546890](/Users/habin_kim/Development/TIL/image-20201208065546890.png)
+![nosql_document](/Users/habin_kim/Development/TIL/assets/nosql_document.png)
 
 
 
@@ -81,11 +81,11 @@ Euler & Graph Theory에서 유래한 DB다. Nodes, Relationship, Key-Value 데�
 
 > Neo4J, BlazeGraph, OrientDB 등의 제품이 있다.
 
-![image-20201208065609964](/Users/habin_kim/Development/TIL/image-20201208065609964.png)
+![nosql_graph](/Users/habin_kim/Development/TIL/assets/nosql_graph.png)
 
 
 
 ## SQL vs NoSQL
 
-![SQL? NoSQL?](/Users/habin_kim/Development/TIL/SjzxDRfvpW_MGArz60_rYsHRrrg.png)
+
 
